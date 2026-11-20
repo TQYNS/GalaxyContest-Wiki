@@ -1,6 +1,6 @@
 # 逐鹿星河 · Galaxy Contest
 
-《缺氧》大型内容扩展 Mod。把餐桌、饮品、星图贸易与星际战斗串成一条完整玩法线：种出来的作物可以进厨房，做出来的菜可以上桌，饮品可以解渴，火箭可以带着货舱和武器去星图深处做生意、打架、找东西。
+《缺氧》大型内容扩展 Mod。把餐桌、饮品、星图贸易与星际战斗串成一条完整玩法线：种出来的作物可以进厨房，做出来的菜可以上桌，饮品可以解渴，火箭可以带着货舱和武器去星图深处做生意、战斗、探索。
 
 在线图鉴：**https://tqyns.github.io/GalaxyContest-Wiki/**
 
@@ -27,12 +27,11 @@
 
 ## 安装
 
-订阅 Steam 创意工坊，或将 Mod 放入《缺氧》本地 Mods 目录后启用。
+- Steam 创意工坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3794321811
 
 ## 反馈与支持
 
-- Steam 创意工坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3794321811
 - 反馈群：1107723160
 - 爱发电：https://afdian.com/a/TQYNS?utm_source=copylink&utm_medium=link
 
-如果这个 Mod 让你的一局游戏多了一点意思，欢迎点赞、反馈或支持。
+如果这个 Mod 让你感到欢乐，欢迎点赞、反馈或支持。
