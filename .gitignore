@@ -1,0 +1,33 @@
+# L1 公开层：本目录可整个上传 GitHub
+# 禁止任何明文图片与原始素材进入版本库（防止被扫描训练）
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.psd
+*.svg
+*.raw
+*.exr
+*.tga
+
+# 密钥、口令、私有层任何文件
+*private*
+*secret*
+*passphrase*
+*.pem
+*.key
+*.bin
+L2_private/
+../L2_private/
+
+# 管理端不得进入公开层，仅允许 update/updates.json
+update/admin*
+update/*admin*
+
+# 系统文件
+.DS_Store
+Thumbs.db
